@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">300dp</dimen>
+    <dimen name="activity_margin_start">16dp</dimen>
+    <dimen name="activity_margin_end">16dp</dimen>
+
+    <dimen name="element_8dp">8dp</dimen>
+
+    <!--Sign in activity -->
+    <dimen name="sign_in_activty_margin_start">32dp</dimen>
+    <dimen name="sign_in_activity_sign_in_margin_top">16dp</dimen>
+    <dimen name="register_activity_rb_between">24dp</dimen>
+
+    <!--END Sign in activity -->
+
+    <!--question layout-->
+    <dimen name="question_layout_card_margin_start">16dp</dimen>
+    <dimen name="question_layout_card_margin_end">16dp</dimen>
+    <dimen name="answer_card_margin_start">16dp</dimen>
+    <dimen name="answer_card_margin_end">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="categories_row_image_margin">16dp</dimen>
+    <!--end question layout-->
+</resources>

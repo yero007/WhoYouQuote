@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/primaryColor">
+
+
+    <ImageView
+        android:id="@+id/row_category_image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_margin="@dimen/categories_row_image_margin"/>
+
+    <whoyouquote.yero007.com.whoyouquote.views.WYQTextViewRegular
+        android:id="@+id/row_category_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/row_category_image"/>
+</RelativeLayout>

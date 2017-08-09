@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Who You Quote</string>
+    <string name="title_section1">Quotr</string>
+    <string name="title_section2">Profile</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_log_in">LogIn</string>
+    <string name="title_activity_main">@string/app_name</string>
+
+    <!-- Strings for interface -->
+
+    <string name="avatar_select">Select your avatar</string>
+
+    <string name="nav_home">Home</string>
+    <string name="display_player_name">Player name</string>
+
+    <!--sign in activity -->
+    <string name="sign_in_header">Welcome to trivit!</string>
+    <string name="sign_in_email_hint">Email</string>
+    <string name="sign_in_password_hint">Password</string>
+    <string name="sign_in_sign_in">Sign in</string>
+    <!--end sign in activity-->
+
+    <!--avatar chooser activity -->
+    <string name="avatar_chooser_select_avatar_display">Select Your Avatar</string>
+    <string name="avatar_chooser_select_btn">Select</string>
+    <string name="welcome">Welcome to quotr</string>
+    <string name="welcome_get_started">get started</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="play">Play</string>
+    <string name="sign_in_no_account">Don\'t have an account?</string>
+    <string name="sign_in_register">Register now</string>
+
+    <!--end avatar chooser activity-->
+
+    <!-- register activity -->
+    <string name="register_username_hint">Username</string>
+    <string name="register_back">Back to SignIn</string>
+
+    <!-- end register activity-->
+
+    <!--autenthication activity-->
+    <string name="title_activity_authentication">Authentication</string>
+    <string name="register_register">Register</string>
+    <string name="categories_title">Categories</string>
+    <string name="register_choose_username">Choose your username</string>
+    <!--end autenthication activity-->
+</resources>
