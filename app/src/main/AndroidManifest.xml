@@ -3,6 +3,7 @@
     package="whoyouquote.yero007.com.whoyouquote">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
         android:allowBackup="true"
@@ -31,7 +32,7 @@
         <activity
             android:name=".activities.GameActivity"
             android:label="GameActivity" />
-        <activity android:name=".activities.ScrollTestActivity"></activity>
+        <activity android:name=".activities.ScrollTestActivity" />
     </application>
 
 </manifest>
